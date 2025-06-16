@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://github.com/mauriciompc/mauriciompc/blob/main/Psycho_DataAnalyst.jpg"  />
 </div>
 
 <h2 align="left">What's Up? 👋 This is the Mauricio's Github Page</h2>
