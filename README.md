@@ -10,7 +10,7 @@
   <p>
 Psychologist with more than 20 years of experience working with Human Factors in aviation and air traffic control safety, 
 psychological assessment, psychometrics and data analysis. Ph.D. in Science (Psychometrics).<br>
-My experience includes extensive work in psychometrics, research and development of psychological tests andpsychological assessment, 
+My experience includes extensive work in psychometrics, research and development of psychological tests and psychological assessment, 
 data analysis (quantitative and qualitative) and multidisciplinary teamwork.
   </p>
 </div>
@@ -25,7 +25,7 @@ data analysis (quantitative and qualitative) and multidisciplinary teamwork.
 - ⚡⚡ Fun fact 2: I like to play guitar but The guitar doesn't like me 🙃
 - ⚡⚡⚡ Fun fact 3: I was military officer from Brazilian Air Force 🫡
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="30" alt="spss logo"  />
   <img width="12" />
